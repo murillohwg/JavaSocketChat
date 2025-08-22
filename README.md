@@ -27,13 +27,3 @@ Este é um projeto simples de chat em Java utilizando **sockets**. Ele permite q
 ##4. Testar o chat
 -Digite no terminal do cliente e veja a resposta no servidor;
 -Para encerrar, digite "sair"(funciona indepente de upper/lower case);
-
-
-## Exemplos de execução:
-
-### Cliente e Servidor rodando
-![Chat Screenshot 1](img/Screenshot_2025-08-22_18_31_12.png)
-![Chat Screenshot 2](img/Screenshot_2025-08-22_18_33_06.png)
-![Chat Screenshot 3](img/Screenshot_2025-08-22_18_33_10.png)
-![Chat Screenshot 4](img/Screenshot_2025-08-22_18_35_22.png)
-![Chat Screenshot 5](img/Screenshot_2025-08-22_18_35_29.png)
